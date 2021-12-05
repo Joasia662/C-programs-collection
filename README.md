@@ -4,7 +4,7 @@
 
 **1. Calculator**<br>
 >Create a simple menu of your calculator according to the diagram Menu:<br>
->a) Addition, <br>b) Subtraction,<br> c) Multiplication,<br> d) Division<br>  e) Root<br> f) Exponentiation <br>g) Calculate strongly <br>h) Roots of the quadratic equation q) Exit <br><br>
+>a) Addition, <br>b) Subtraction,<br> c) Multiplication,<br> d) Division<br>  e) Root<br> f) Exponentiation <br>g) Mathematical factorial  <br>h) Roots of the quadratic equation q) Exit <br><br>
 >The user selects the action number from the Menu by loading the value of the char type variable from the keyboard. On the basis of the user's choice, the program performs the selected operation on the two variables (except of Roots of the quadratic equation - in this variant the operation is perfomed on the three variable) of the double type entered by the user. When using the instructions that control the execution of the program, to each item in the menu, add the appropriate code that performs the appropriate arithmetic operations on the variables. A variable of double type is returned as the result of the operation.
 
 **2. Hangman The Game**<br>
